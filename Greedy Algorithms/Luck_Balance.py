@@ -19,5 +19,3 @@ class Solution:
 solution = Solution()
 answer = solution.luckBalance(3, [[5, 1], [2, 1], [1, 1], [8, 1], [10, 0], [5, 0]])
 print(answer)
-
-print(3%3)
